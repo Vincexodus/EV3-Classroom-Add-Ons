@@ -12,7 +12,7 @@ Unicode characters mostly results in small `...` dots on screen.
 Current viable characters that works: `+`, `0`.
 
 ### Display Shape: Line
-<img src="/images/shape_line.png" align="top" height="200">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/touch_classroom.png" height="200">
+<img src="/images/shape_line.png" align="top" width="200">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/touch_classroom.png" width="300">
 
 
 ### Display Shape: Rectangle
