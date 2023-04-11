@@ -2,10 +2,7 @@
 Attempt to Replicate blocks from EV3 Lab Software that are unavailable in EV3 Classroom.
 
 ## Unavailable/Unsupported blocks 
-<img src="/images/sensor(yellow).png" height="400">
-<div style="padding-right: 20px; float: right;">
-  <img src="/images/advanced(blue).png" height="300" />
-</div>
+<img src="/images/sensor(yellow).png" height="400"><div style="padding-right: 20px; float: right;"><img src="/images/advanced(blue).png" height="300" /></div>
 <!-- <img src="/images/advanced(blue).png" style="padding-left:10px" height="400"/> -->
 
 
