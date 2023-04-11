@@ -6,7 +6,7 @@ Attempt to Replicate blocks from EV3 Lab Software that are unavailable in EV3 Cl
 
 
 ## Replicated blocks (results not completely identical)
-<img src="/images/classroom_draw.png" width="300"/>
+<img src="/images/classroom_draw.png" width="500">
 Write block is used to draw shapes on screen, symbols like `.`, `a` produces weird/inconsistent results.
 Unicode characters mostly results in small `...` dots on screen.
 Current viable characters that works: `+`, `0`.
