@@ -12,15 +12,15 @@ Unicode characters mostly results in small `...` dots on screen.
 Current viable characters that works: `+`, `0`.
 
 ### Display Shape: Line
-<img src="/images/shape_line.png" align="top" widht="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/touch_classroom.png" width="300">
+<img src="/images/shape_line.png" align="top" width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/touch_classroom.png" width="500">
 
 
 ### Display Shape: Rectangle
-<img src="/images/shape_rectangle.png" align="top" widht="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/rectangle_classroom.png" height="500">
+<img src="/images/shape_rectangle.png" align="top" width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/rectangle_classroom.png" height="500">
 <br>To fll drawn rectangle, set `fill` to 1.
 
 ### Display Shape: Circle 
-<img src="/images/shape_circle.png" align="top" widht="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/circle_classroom.png" height="500">
+<img src="/images/shape_circle.png" align="top" width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/circle_classroom.png" height="500">
 <br>To empty fill of drawn circle, simply add condition of radius between two ranges instead of one as diagram shown above.
 
 <!-- ### Display Shape: Point  -->
