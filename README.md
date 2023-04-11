@@ -2,7 +2,7 @@
 Attempt to Replicate blocks from EV3 Lab Software that are unavailable in EV3 Classroom.
 
 ## Unavailable/Unsupported blocks 
-<img src="/images/sensor(yellow).png" height="400"><img src="/images/advanced(blue).png" height="400"/>
+<img src="/images/sensor(yellow).png" height="400"><img src="/images/advanced(blue).png" style="padding-left:10px" height="400"/>
 
 
 ## Replicated blocks (results not completely identical)
@@ -10,7 +10,7 @@ Attempt to Replicate blocks from EV3 Lab Software that are unavailable in EV3 Cl
 Write block is used to draw shapes on screen, symbols like `.`, `a` produces weird/inconsistent results.
 Unicode characters mostly results in small `...` dots on screen.
 Current viable characters that works: `+`, `0`.
- 
+
 ### Display Shape: Line
 <img src="/images/shape_line.png" width="300"><img src="/images/touch_classroom.png" align="right" width="300"/>
 
