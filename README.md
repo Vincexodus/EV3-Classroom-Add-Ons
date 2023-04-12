@@ -29,7 +29,7 @@ Write block is used to draw shapes on screen, symbols like `.`, `a` produces wei
 <br>Works both in if statement or two wait until statement. 
 
 <br>`Shape.lmsp` consist of replicated shape blocks mentioned above.
-`Sketch.lmsp` enables sketching on screen by controlling brick buttons.
+<br>`Sketch.lmsp` enables sketching on screen by controlling brick buttons.
 
 I also repair EV3 Large & Medium Motors [here](https://github.com/Vincexodus/EV3-Repair-Guide).
 
